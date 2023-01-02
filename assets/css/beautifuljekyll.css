@@ -396,12 +396,12 @@ footer p.text-muted {
 }
 
 footer a {
-  color: {{ site.footer-link-col | default: "#790000" }};
+  color: {{ site.footer-link-col | default: "#8B0000" }};
 }
 
 footer a:hover,
 footer a:focus {
-  color: {{ site.footer-hover-col | default: "#790000" }};
+  color: {{ site.footer-hover-col | default: "#8B0000" }};
 }
 
 footer .list-inline {
