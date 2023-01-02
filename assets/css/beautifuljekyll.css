@@ -49,9 +49,9 @@ h1, h2, h3, h4 {
 a {
   color: {{ site.link-col | default: "#8b0000" }};
 }
-a:hover,
+#a:hover,
 a:focus {
-  color: {{ site.hover-col | default: "#0085A1" }};
+  color: {{ site.hover-col | default: "#8b0000" }};
 }
 blockquote {
   color: #808080;
