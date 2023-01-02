@@ -49,7 +49,9 @@ h1, h2, h3, h4 {
 a {
   color: {{ site.link-col | default: "#8b0000" }};
 }
-#a:hover,
+a:hover {
+  color: {{ site.hover-col | default: "#8b0000" }};
+}
 a:focus {
   color: {{ site.hover-col | default: "#8b0000" }};
 }
