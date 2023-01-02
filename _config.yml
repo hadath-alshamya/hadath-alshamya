@@ -54,9 +54,9 @@ text-col: "#EBB42B"
 link-col: "#FFFFFF"
 hover-col: "#0085A1"
 footer-col: "#000000"
-footer-text-col: "#EBB42B"
-footer-link-col: "#FFFFFF"
-footer-hover-col: "#0085A1"
+footer-text-col: "#c90606"
+footer-link-col: "#c90606"
+footer-hover-col: "#FFFFFF"
 
 date_format: "%B %-d, %Y"
 
