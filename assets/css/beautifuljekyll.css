@@ -396,7 +396,7 @@ footer p.text-muted {
 }
 
 footer a {
-  color: {{ site.footer-link-col | default: "#404040" }};
+  color: {{ site.footer-link-col | default: "#790000" }};
 }
 
 footer a:hover,
