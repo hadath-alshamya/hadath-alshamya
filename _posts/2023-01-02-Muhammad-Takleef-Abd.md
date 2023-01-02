@@ -2,9 +2,9 @@
 layout: post
 title: Muhammad Takleef Abd
 subtitle: Channel Manager
-cover-img: /assets/img/muhammedtakleef.png
-thumbnail-img: /assets/img/muhammedtakleef.png
-share-img: /assets/img/muhammedtakleef.png
+cover-img: /assets/img/avatar-icon.png
+thumbnail-img: /assets/img/avatar-icon.png
+share-img: /assets/img/avatar-icon.png
 ---
 
 # Name : Muhammad Takleef Abd
