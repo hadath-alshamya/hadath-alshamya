@@ -394,7 +394,7 @@ footer {
 }
 
 footer p.text-muted {
-  color: {{ site.footer-text-col | default: "#777777" }} !important;
+  color: {{ site.footer-text-col | default: "#8B0000" }} !important;
 }
 
 footer a {
