@@ -51,11 +51,11 @@ title-img: /assets/img/logo.webp
 social-network-links:
   #email: "someone@example.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  #facebook: deanattali
+  #facebook: hadath.alshamya
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
-  #youtube: c/daattali
+  youtube: c/user-cd3ef1xe5j
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -68,7 +68,7 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
+  telegram: HadathAlshamya
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
@@ -100,10 +100,10 @@ social-network-links:
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+feed_show_excerpt: false
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # Add a search button to the navbar
 post_search: false
@@ -230,7 +230,7 @@ footer-hover-col: "#0085A1"
 #  mapping: pathname
 #  reactions-enabled: 1
 #  emit-metadata: 0
-#  theme: light
+  theme: dark
 
 ################
 # --- Misc --- #
