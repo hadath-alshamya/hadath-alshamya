@@ -8,7 +8,7 @@ title-img: "/assets/img/logo.jpg"
 
 social-network-links:
 
- facebook: hadath.alshamya
+  facebook: hadath.alshamya
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
@@ -36,9 +36,9 @@ social-network-links:
 
 excerpt_length: 50
 
-feed_show_excerpt: false
+feed_show_excerpt: true
 
-feed_show_tags: false
+feed_show_tags: true
 
 post_search: false
 
@@ -75,7 +75,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      #layout: "post"
+      layout: "post"
       #comments: true  # add comments to all blog posts
       #social-share: true # add social media sharing buttons to all blog posts
   -
