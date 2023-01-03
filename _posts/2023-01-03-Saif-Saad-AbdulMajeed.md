@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/avatar-icon.png
 share-img: /assets/img/avatar-icon.png
 ---
 
-# Name : Saif Saad Abdul Majeed 
+# Name : Saif Saad AbdulMajeed 
 # Job : Photographer
 # D.O.B : 1988
 # ID Number : 29
