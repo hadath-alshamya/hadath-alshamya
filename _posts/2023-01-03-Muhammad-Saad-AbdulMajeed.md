@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/avatar-icon.png
 share-img: /assets/img/avatar-icon.png
 ---
 
-# Name : Muhammad Saad Abdul Majeed 
+# Name : Muhammad Saad AbdulMajeed 
 # Job : Photographer
 # D.O.B : 1990
 # ID Number : 30
