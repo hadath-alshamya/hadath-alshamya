@@ -12,7 +12,7 @@ avatar: "/assets/img/logo.jpg"
 round-avatar: true
 
 
-title-img: "/assets/img/logo.jpg"
+title-img: /assets/img/logo.jpg
 
 #####################################
 # --- Footer social media links --- #
