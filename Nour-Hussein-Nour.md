@@ -2,11 +2,7 @@
 layout: page
 title: Nour Hussein Nour
 subtitle: Photographer
-cover-img: /assets/img/avatar-icon.png
-thumbnail-img: /assets/img/avatar-icon.png
-share-img: /assets/img/avatar-icon.png
 ---
-
 # Name : Nour Hussein Nour
 # Job : Photographer
 # D.O.B : 1997
