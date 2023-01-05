@@ -1,7 +1,7 @@
 ---
 layout: page
-title : Alaa Aziz Sahib
-subtitle : Coordinator
+title: Alaa Aziz Sahib
+subtitle: Coordinator
 ---
 # Name : Alaa Aziz Sahib
 # Job : Coordinator
