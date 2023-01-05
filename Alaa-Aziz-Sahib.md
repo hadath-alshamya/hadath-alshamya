@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Alaa Aziz Sahib
-subtitle: Coordinator
 cover-img: /assets/img/avatar-icon.png
 thumbnail-img: /assets/img/avatar-icon.png
 share-img: /assets/img/avatar-icon.png
