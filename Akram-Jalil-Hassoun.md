@@ -1,7 +1,7 @@
 ---
 layout: page
-title : Akram Jalil Hassoun
-subtitle : Presenter
+title: Akram Jalil Hassoun
+subtitle: Presenter
 ---
 # Name : Akram Jalil Hassoun 
 # Job : Presenter
